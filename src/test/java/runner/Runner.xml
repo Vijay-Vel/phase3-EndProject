@@ -1,0 +1,12 @@
+<suite name="RestAssure Testing" verbose="1">
+<test name="Test Assignment001">
+<classes>
+<class name="courseEndProject.Assignment001"></class>
+<methods>
+    <include name="assignment001Post"></include> 
+    <include name="assignment001Get"></include> 
+    <include name="assignment001Delete"></include> 
+  </methods>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,18 @@
+{
+    "id": 645,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "duck",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  }

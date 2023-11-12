@@ -1,0 +1,18 @@
+{
+    "id": 20021,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "dogiee",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available_QA"
+  }
